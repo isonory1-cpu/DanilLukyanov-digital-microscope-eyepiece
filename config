@@ -1,0 +1,25 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = alexeykorotkih
+	email = doters1321@gmail.com
+[remote "origin"]
+	url = https://github.com/AlexeyKorotkix/digital-microscope-eyepiece.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[remote "verse"]
+	url = https://gitverse.ru/alexey_korotkih/digital-microscope-eyepiece.git
+	fetch = +refs/heads/*:refs/remotes/verse/*
+[remote "flic"]
+	url = https://gitflic.ru/project/alexeykorotkih/digital-microscope-eyepiece.git
+	fetch = +refs/heads/*:refs/remotes/flic/*
+[remote "verse2"]
+	url = https://gitverse.ru/alexey_korotkih/digital-microscope-eyepiece.git
+	fetch = +refs/heads/*:refs/remotes/verse2/*

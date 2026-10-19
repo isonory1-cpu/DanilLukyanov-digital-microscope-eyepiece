@@ -1,0 +1,22 @@
+0000000000000000000000000000000000000000 b373cd34ff8e717e9f4d73e289df42df63ebc42c alexeykorotkih <doters1321@gmail.com> 1788514341 +0400	commit (initial): First commit. Model phone simple brick.
+b373cd34ff8e717e9f4d73e289df42df63ebc42c 0000000000000000000000000000000000000000 alexeykorotkih <doters1321@gmail.com> 1788514738 +0400	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 b373cd34ff8e717e9f4d73e289df42df63ebc42c alexeykorotkih <doters1321@gmail.com> 1788514738 +0400	Branch: renamed refs/heads/master to refs/heads/main
+b373cd34ff8e717e9f4d73e289df42df63ebc42c 23e13d85db44b32b4fd7856178fe526ee56b68c4 alexeykorotkih <doters1321@gmail.com> 1789370438 +0400	commit: Changed architecture of project: new file test_02.scad & test_01.scad
+23e13d85db44b32b4fd7856178fe526ee56b68c4 2dc9b701aae50fcb8be7948b61da39e7f9b28629 alexeykorotkih <doters1321@gmail.com> 1789973086 +0400	commit: test
+2dc9b701aae50fcb8be7948b61da39e7f9b28629 2dc9b701aae50fcb8be7948b61da39e7f9b28629 alexeykorotkih <doters1321@gmail.com> 1789973170 +0400	reset: moving to HEAD
+2dc9b701aae50fcb8be7948b61da39e7f9b28629 0000000000000000000000000000000000000000 alexeykorotkih <doters1321@gmail.com> 1789975093 +0400	Branch: renamed refs/heads/main to refs/heads/master
+0000000000000000000000000000000000000000 2dc9b701aae50fcb8be7948b61da39e7f9b28629 alexeykorotkih <doters1321@gmail.com> 1789975093 +0400	Branch: renamed refs/heads/main to refs/heads/master
+2dc9b701aae50fcb8be7948b61da39e7f9b28629 0000000000000000000000000000000000000000 alexeykorotkih <doters1321@gmail.com> 1789975429 +0400	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 2dc9b701aae50fcb8be7948b61da39e7f9b28629 alexeykorotkih <doters1321@gmail.com> 1789975429 +0400	Branch: renamed refs/heads/master to refs/heads/main
+2dc9b701aae50fcb8be7948b61da39e7f9b28629 752dd339f80c964b80ade66a09657ff532c4bc97 alexeykorotkih <doters1321@gmail.com> 1790579275 +0400	commit: New file holder.scad, modules t_cross() screw_hole for vertical block
+752dd339f80c964b80ade66a09657ff532c4bc97 23c699973ed9977e138a3507b0191914204652f5 alexeykorotkih <doters1321@gmail.com> 1790580630 +0400	commit: Horizontal block for t-cross holder
+23c699973ed9977e138a3507b0191914204652f5 b6ad6e97aa10c3bae73f3b3c1442eb3323467f27 alexeykorotkih <doters1321@gmail.com> 1790933214 +0400	commit: Module holder_set(), included them in main.scad
+b6ad6e97aa10c3bae73f3b3c1442eb3323467f27 2beb3ba8d3562b27eeea653764a2107f6026074f alexeykorotkih <doters1321@gmail.com> 1791182903 +0400	commit: Refactoring holder: module horizontal_block(offset_vertical).
+2beb3ba8d3562b27eeea653764a2107f6026074f 1170a683f3f0896fdcfcd69707bdec68ac0490f9 alexeykorotkih <doters1321@gmail.com> 1791185304 +0400	commit: Refactoring holder.scad: vertical_block (len_block), append - more length of blocks over size smartphone
+1170a683f3f0896fdcfcd69707bdec68ac0490f9 66848c1eb109a8b1d253bffb8f85fa5332e4acc4 alexeykorotkih <doters1321@gmail.com> 1791788465 +0400	commit: Prefab for grip of holder, module grip().
+66848c1eb109a8b1d253bffb8f85fa5332e4acc4 0000000000000000000000000000000000000000 alexeykorotkih <doters1321@gmail.com> 1791790371 +0400	Branch: renamed refs/heads/main to refs/heads/master
+0000000000000000000000000000000000000000 66848c1eb109a8b1d253bffb8f85fa5332e4acc4 alexeykorotkih <doters1321@gmail.com> 1791790371 +0400	Branch: renamed refs/heads/main to refs/heads/master
+66848c1eb109a8b1d253bffb8f85fa5332e4acc4 0000000000000000000000000000000000000000 alexeykorotkih <doters1321@gmail.com> 1791790382 +0400	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 66848c1eb109a8b1d253bffb8f85fa5332e4acc4 alexeykorotkih <doters1321@gmail.com> 1791790382 +0400	Branch: renamed refs/heads/master to refs/heads/main
+66848c1eb109a8b1d253bffb8f85fa5332e4acc4 978365922d7a96d29c825f40527611854f1ee0e2 alexeykorotkih <doters1321@gmail.com> 1792141439 +0400	commit: Module grip(). grip_base() with screw hole.
+978365922d7a96d29c825f40527611854f1ee0e2 75894c223e0460c55db742bd886f8cef7d3e33bf alexeykorotkih <doters1321@gmail.com> 1792143934 +0400	commit: README.md, sreenshoot, link to thingeverse, PNG-screenshot OpenScad.
